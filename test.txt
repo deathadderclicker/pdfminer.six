@@ -1,0 +1,3 @@
+py
+
+pip install pdfminer.six
